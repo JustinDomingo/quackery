@@ -10,3 +10,10 @@ the most updated messages. One of the biggest problems I faced was being able to
 - Real-time transmitted data
 - Send unlimited messages
 
+## Technologies Used
+- #### Vanilla JavaScript
+- #### Node
+- #### MongoDB
+- #### Socket.io
+- #### CSS
+- #### Sessions/Cookies
